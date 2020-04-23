@@ -24,5 +24,7 @@
 <!-- ChartJS -->
 <script src="../js/Chart.min.js"></script>
 
+<script src="../js/firbasecontact.js"></script>
+
 <!-- PAGE SCRIPTS -->
 <script src="../js/dashboard2.js"></script>
